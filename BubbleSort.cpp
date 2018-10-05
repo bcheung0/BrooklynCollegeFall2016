@@ -8,6 +8,7 @@ CISC 1110
 #include <fstream>
 #include <string>
 using namespace std;
+ 
 
 void readFile(string [], int &);
 void printArr(string[],int);
