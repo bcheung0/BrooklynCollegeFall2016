@@ -2,8 +2,6 @@
 BRIAN CHEUNG 
 CISC 1100 TR2
 Assignment 6
-Due Date: 10/4/16  (I think) 
-Submit Day: 10/3/16
 */
 
 
